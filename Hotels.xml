@@ -4,143 +4,132 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Habor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.2">
     <Name>DoubleTree by Hilton Phoenix Chandler</Name>
     <Phone>480-961-4444</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>7475</Number>
       <Street>W Chandler Blvd</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85226</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.2">
     <Name>Hampton Inn Chandler</Name>
     <Phone>480-753-5200</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>7333</Number>
       <Street>W Detroit St</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85226</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.5">
     <Name>Drury Inn and Suites Chandler</Name>
     <Phone>480-899-8100</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>1205</Number>
       <Street>S Price Rd</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85286</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.2">
     <Name>Element Chandler Fashion Center</Name>
     <Phone>480-553-7277</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>44</Number>
       <Street>S Chandler Village Dr</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85226</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.1">
     <Name>Crowne Plaza Chandler Golf Resort</Name>
     <Phone>480-812-0900</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>1</Number>
       <Street>San Marcos Place</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85225</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.2">
     <Name>Residence Inn Phoenix Chandler Fashion Center</Name>
     <Phone>480-782-1551</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>200</Number>
       <Street>N Federal St</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85226</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.0">
     <Name>SpringHill Suites Phoenix Chandler</Name>
     <Phone>480-726-7666</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>225</Number>
       <Street>N Metro Blvd</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85226</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.2">
     <Name>Courtyard by Marriott Phoenix Chandler</Name>
     <Phone>480-855-8600</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>1100</Number>
       <Street>S Price Rd</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85286</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.2">
     <Name>Homewood Suites by Hilton Phoenix</Name>
     <Phone>480-963-5700</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>1221</Number>
       <Street>S Spectrum Blvd</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85286</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.3">
     <Name>Cambria Hotel Phoenix Chandler Fashion Center</Name>
     <Phone>480-899-2203</Phone>
-    <Address>
+    <Address NearestAirport="Sky Habor">
       <Number>3165</Number>
       <Street>W Frye Rd</Street>
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85226</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 </Hotels>
