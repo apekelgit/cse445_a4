@@ -27,7 +27,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Hampton Inn Phoenix/Chandler</Name>
     <Phone>480-753-5200</Phone>
     <Address>
@@ -53,7 +53,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Element Chandler Fashion Center</Name>
     <Phone>480-553-7277</Phone>
     <Address>
@@ -79,7 +79,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Residence Inn Phoenix Chandler Fashion Center</Name>
     <Phone>480-782-1551</Phone>
     <Address>
@@ -105,7 +105,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.2">
     <Name>Courtyard by Marriott Phoenix Chandler/Fashion Center</Name>
     <Phone>480-855-8600</Phone>
     <Address>
