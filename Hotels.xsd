@@ -21,7 +21,6 @@
                 </xsd:complexType>
               </xsd:element>
             </xsd:sequence>
-            <xsd:attribute name="id" type="xsd:ID" use="required"/>
             <xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
           </xsd:complexType>
         </xsd:element>
