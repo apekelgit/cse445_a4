@@ -11,9 +11,9 @@ namespace ConsoleApp1
 {
     public class Program
     {
-        public static string xmlURL      = "https://raw.githubusercontent.com/<you>/<repo>/main/Hotels.xml";
-        public static string xmlErrorURL = "https://raw.githubusercontent.com/<you>/<repo>/main/HotelsErrors.xml";
-        public static string xsdURL      = "https://raw.githubusercontent.com/<you>/<repo>/main/Hotels.xsd";
+        public static string xmlURL      = "https://apekelgit.github.io/cse445_a4/Hotels.xml";
+        public static string xmlErrorURL = "https://apekelgit.github.io/cse445_a4/HotelsErrors.xml";
+        public static string xsdURL      = "https://apekelgit.github.io/cse445_a4/Hotels.xsd";
 
         public static void Main(string[] args)
         {
