@@ -28,7 +28,7 @@
   </Hotel>
 
   <Hotel Rating="4.2">
-    <Name>Hampton Inn Phoenix/Chandler</Name>
+    <Name>Hampton Inn Chandler</Name>
     <Phone>480-753-5200</Phone>
     <Address>
       <Number>7333</Number>
@@ -41,7 +41,7 @@
   </Hotel>
 
   <Hotel Rating="4.5">
-    <Name>Drury Inn &amp; Suites Phoenix Chandler Fashion Center</Name>
+    <Name>Drury Inn and Suites Chandler</Name>
     <Phone>480-899-8100</Phone>
     <Address>
       <Number>1205</Number>
@@ -67,7 +67,7 @@
   </Hotel>
 
   <Hotel Rating="4.1">
-    <Name>Crowne Plaza Phoenix–Chandler Golf Resort</Name>
+    <Name>Crowne Plaza Chandler Golf Resort</Name>
     <Phone>480-812-0900</Phone>
     <Address>
       <Number>1</Number>
@@ -93,7 +93,7 @@
   </Hotel>
 
   <Hotel Rating="4.0">
-    <Name>SpringHill Suites Phoenix Chandler/Fashion Center</Name>
+    <Name>SpringHill Suites Phoenix Chandler</Name>
     <Phone>480-726-7666</Phone>
     <Address>
       <Number>225</Number>
@@ -106,7 +106,7 @@
   </Hotel>
 
   <Hotel Rating="4.2">
-    <Name>Courtyard by Marriott Phoenix Chandler/Fashion Center</Name>
+    <Name>Courtyard by Marriott Phoenix Chandler</Name>
     <Phone>480-855-8600</Phone>
     <Address>
       <Number>1100</Number>
@@ -119,7 +119,7 @@
   </Hotel>
 
   <Hotel Rating="4.2">
-    <Name>Homewood Suites by Hilton Phoenix/Chandler Fashion Center</Name>
+    <Name>Homewood Suites by Hilton Phoenix</Name>
     <Phone>480-963-5700</Phone>
     <Address>
       <Number>1221</Number>
