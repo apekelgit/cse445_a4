@@ -20,8 +20,8 @@
                   </xsd:sequence>
                 </xsd:complexType>
               </xsd:element>
-              <xsd:element name="Rating" type="xsd:decimal" minOccurs="0"/>
             </xsd:sequence>
+            <xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
           </xsd:complexType>
         </xsd:element>
       </xsd:sequence>
