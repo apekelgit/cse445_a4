@@ -130,4 +130,17 @@
       <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
+
+  <Hotel id="H11" Rating="4.3">
+    <Name>Cambria Hotel Phoenix Chandler Fashion Center</Name>
+    <Phone>480-899-2203</Phone>
+    <Address>
+      <Number>3165</Number>
+      <Street>W Frye Rd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
 </Hotels>
